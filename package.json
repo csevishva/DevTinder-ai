@@ -1,0 +1,14 @@
+{
+  "name": "devtinder-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DevTinder AI - Developer Networking Platform",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "turbo": "^2.11.11"
+  }
+}
